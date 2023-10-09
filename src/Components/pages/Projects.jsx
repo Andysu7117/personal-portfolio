@@ -1,5 +1,5 @@
 import { CodeBracketSquareIcon } from "@heroicons/react/24/solid";
-import { projects } from "../data";
+import { projects } from "../../data";
 
 export default function Projects() {
     return (
