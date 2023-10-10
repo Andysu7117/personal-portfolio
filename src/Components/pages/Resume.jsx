@@ -70,7 +70,7 @@ function Resume() {
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">Andy Su</h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Sydney, NSW 2000</p>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Phone: 0469314495 | Email: andy.su7117@gmail.com</p>
-                    <p className="lg:w-2/3 mx-auto leading-relaxed text-base">LinkedIn: <a href="www.linkedin.com/in/andysu7117" className="underline text-gray-400 hover:text-white">www.linkedin.com/in/andysu7117</a></p>
+                    <p className="lg:w-2/3 mx-auto leading-relaxed text-base">LinkedIn: <a href="https://www.linkedin.com/in/andysu7117" className="underline text-gray-400 hover:text-white">www.linkedin.com/in/andysu7117</a></p>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">GitHub: <a href="https://github.com/Andysu7117" className="underline text-gray-400 hover:text-white">https://github.com/Andysu7117</a></p>
                 </div>
 
