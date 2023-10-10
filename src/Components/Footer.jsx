@@ -15,7 +15,7 @@ function Footer() {
                   <Lottie animationData={githubAnimation} style={{ width: 50, height: 50 }} />
               </a>
               <a 
-                  href="www.linkedin.com/in/andysu7117" 
+                  href="https://linkedin.com/in/andysu7117" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="mx-2"
