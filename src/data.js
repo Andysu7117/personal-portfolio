@@ -1,5 +1,17 @@
 export const projects = [
   {
+    title: "JustChitChat",
+    subtitle: "MERN Stack",
+    description: `A MERN Stack Single-Page Chat App
+    - React
+    - Tailwindcss
+    - Mongoose
+    - MongoDB
+    `,
+    image: "./justchitchat.png",
+    link: "https://github.com/Andysu7117/JustChitChat"
+  },
+  {
     title: "Travel Gem Exlorer",
     subtitle: "Fullstack",
     description: `Website for finding and posting hidden and not well known travel locations. Highlights of this project are:
